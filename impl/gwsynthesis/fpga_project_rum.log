@@ -1,0 +1,7 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\adell\Documents\fpga_project_rum\src\PortRam.v'
+ERROR (EX3588) : Single value range is not allowed in this mode of Verilog("C:\Users\adell\Documents\fpga_project_rum\src\PortRam.v":15)
+ERROR (EX3928) : Module 'singlePortRam' is ignored due to previous errors("C:\Users\adell\Documents\fpga_project_rum\src\PortRam.v":27)
+Verilog file 'C:\Users\adell\Documents\fpga_project_rum\src\PortRam.v' ignored due to errors
+GowinSynthesis finish
